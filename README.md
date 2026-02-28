@@ -31,3 +31,5 @@ This repository is for **Research and Local Evaluation Only**.
 
 ---
 *"ManiSurve bends space to reveal the truth. The wall of NP has fallen."*
+
+(I wrote this README with ai, because I am not good at English. Something awkward things can be contained. Thank you)
