@@ -1,4 +1,4 @@
-# 🚀 Project ManiSurve v1.1
+# Project ManiSurve v1.5
 **Empirical Proof: Solving NP-Complete Problems in Polynomial Time (O(n^p))**
 
 ManiSurve is a breakthrough optimization engine that bypasses the exponential complexity of NP-Complete problems using **Manifold Warping** and **Swarm Convergence** logic. 
@@ -7,7 +7,7 @@ By treating discrete combinatorial conflicts as continuous topological curvature
 
 
 
-## 📊 Revolutionary Performance
+## Revolutionary Performance
 While traditional solvers face "Exponential Explosion" ($2^n$), ManiSurve maintains a flat complexity curve.
 
 - **Target:** N=10,000 Nodes, 50,000 Edges (Graph Coloring / 3-SAT equivalent)
@@ -17,13 +17,13 @@ While traditional solvers face "Exponential Explosion" ($2^n$), ManiSurve mainta
 
 
 
-## 🧠 The Core Philosophy
+## The Core Philosophy
 ManiSurve operates on three fundamental pillars:
 1. **Surveillance Mapping:** Real-time scanning of the entire interference field.
 2. **Manifold Warping:** Dynamically adjusting the Riemannian metric of the problem space to "bend" the solution toward zero-violation states.
 3. **Collective Swarm Pressure:** All $N$ elements update simultaneously in a global vector field, preventing local optima traps.
 
-## ⚠️ Important: License & Usage
+## Important: License & Usage
 This repository is for **Research and Local Evaluation Only**. 
 - **Local Testing:** You are encouraged to run the code and verify the results on your own hardware.
 - **Commercial/Production Use:** **PROHIBITED** without a formal contract. ManiSurve is a proprietary technology.
